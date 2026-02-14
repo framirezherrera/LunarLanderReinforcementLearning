@@ -1,0 +1,13 @@
+gymnasium
+gymnasium[box2d]
+box2d
+numpy
+scipy
+torch
+moviepy
+matplotlib
+pyglet
+imageio
+ipython
+seaborn
+pandas
